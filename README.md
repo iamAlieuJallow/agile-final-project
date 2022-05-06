@@ -1,3 +1,3 @@
 # agile-final-project
 
-This is my Agile Development & Scrum Foundations project
+My Agile Development & Scrum Foundations Honors project
